@@ -1,6 +1,6 @@
 # Dixie Evans
 
-Character sheet: [[dixie.pdf]]
+Character sheet: [dixie.pdf](./dixie.pdf)
 
 ## Fatebinding
 
